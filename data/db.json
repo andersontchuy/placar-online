@@ -1,0 +1,277 @@
+{
+  "matches": [
+    {
+      "id": "1",
+      "turn": 1,
+      "bids": [
+        {
+          "time": 15,
+          "half": 2,
+          "team": "Atletico",
+          "subject": "Defezaça",
+          "description": "Julio Cezar faz uma defeza espetacular. Inacreditáveeeeel."
+        },
+        {
+          "time": 12,
+          "half": 2,
+          "team": "Atletico",
+          "subject": "Vai rolar substituição",
+          "description": "Marcelinho Sergipano vai sair para entrada de Dodó."
+        },
+        {
+          "time": 8,
+          "half": 2,
+          "team": "Flamengo",
+          "subject": "Gooooooooool!!!!!!",
+          "description": "Juvenal Junior acerta lá onde a corujá dorme. E deixa o goleiro Rafarel sem chance."
+        },
+        {
+          "time": 5,
+          "half": 2,
+          "team": "Flamengo",
+          "subject": "Penalti",
+          "description": "Marcelinho Segipano derrubou Juvenal Junior na pequena área é penalti para o Flamengo."
+        },
+        {
+          "time": 43,
+          "half": 1,
+          "team": "Atletico",
+          "subject": "Tiro de meta",
+          "description": "Tiro de meta para o time do Atletico Mineiro."
+        },
+        {
+          "time": 42,
+          "half": 1,
+          "team": "Flamengo",
+          "subject": "Para Fora",
+          "description": "Mais uma excelente oportunidade para o Flamengo. Berrío desperdiça com um chute pra fora."
+        },
+        {
+          "time": 37,
+          "half": 1,
+          "team": "Atletico",
+          "subject": "Falta perigosa ",
+          "description": "Cezar mentira faz falta perigosa perto da pequena área e pode sair um lance com chances de gol."
+        },
+        {
+          "time": 26,
+          "half": 1,
+          "team": "Atletico",
+          "subject": "Gol de Ribamario",
+          "description": "Ribamario marca para o Atletico e coloca o time novamente na disputa."
+        },
+        {
+          "time": 10,
+          "half": 1,
+          "team": "Flamengo",
+          "subject": "Ronaldinho fez um gol de placa",
+          "description": "Ronaldinho fez um belo gol de placa para a loucura dos flamenguistas."
+        }
+      ],
+      "team-a": {
+        "name": "Flamengo",
+        "abbr": "FLA",
+        "badge": "logo1.png",
+        "supporters": 15,
+        "score": 3,
+        "players": [
+          {
+            "name": "Alex Muralha",
+            "pos": "GOL"
+          },
+          {
+            "name": "Pará",
+            "pos": "LAD"
+          },
+          {
+            "name": "Réver",
+            "pos": "ZAD"
+          },
+          {
+            "name": "Rafael Vaz",
+            "pos": "ZAE"
+          }
+        ]
+      },
+      "team-b": {
+        "name": "Atlético-MG",
+        "abbr": "CAM",
+        "badge": "logo2.png",
+        "supporters": 17,
+        "score": 1,
+        "players": [
+          {
+            "name": "Alex Muralha",
+            "pos": "GOL"
+          },
+          {
+            "name": "Pará",
+            "pos": "LAD"
+          },
+          {
+            "name": "Réver",
+            "pos": "ZAD"
+          },
+          {
+            "name": "Rafael Vaz",
+            "pos": "ZAE"
+          }
+        ]
+      },
+      "championship": {
+        "name": "Campeonato Brasileiro",
+        "abbr": "Camp. Bras."
+      },
+      "videos": [
+        "gyCFuP3rM2w",
+        "3tUh-x-fp8Q",
+        "9bZkp7q19f0",
+        "g9TsbGQ-v3g"
+      ],
+      "porcentagem": {
+        "teamA": "52",
+        "teamB": "48"
+      }
+    },
+    {
+      "id": "1",
+      "turn": 1,
+      "bids": [
+        {
+          "time": 15,
+          "half": 2,
+          "team": "Cruzeiro",
+          "subject": "saiu cartão",
+          "description": "Meia Juninho Zoião leva cartão armarelo por entrada dura em Zé Leitoa."
+        },
+        {
+          "time": 13,
+          "half": 2,
+          "team": "Palmeiras",
+          "subject": "Contrataque",
+          "description": "Contrataque palmeirense numa arrancada do meia Juninho Paraibano."
+        },
+        {
+          "time": 12,
+          "half": 2,
+          "team": "Cruzeiro",
+          "subject": "É muita pressão",
+          "description": "Ataque do Cruzeiro pressiona a defesa do Palmeiras. Se continuar assim a quaquer momento sai um gol."
+        },
+        {
+          "time": 10,
+          "half": 2,
+          "team": "Cruzeiro",
+          "subject": "Bebeto marca um gol",
+          "description": "Belissimo gol de Bebeto para o Cruzeiro aos 10 minutos do segundo tempo."
+        },
+        {
+          "time": 5,
+          "half": 2,
+          "team": "Palmeiras",
+          "subject": "Esquerdinha perde gol",
+          "description": "O atacante esquerdinha do Palmeiras perde uma grande oportunidade de marcar gol."
+        },
+        {
+          "time": 22,
+          "half": 1,
+          "team": "Cruzeiro",
+          "subject": "Pra fora",
+          "description": "Rodrigo Chulapa sozinho na pequena área perde a chance de marcar gol. "
+        },
+        {
+          "time": 18,
+          "half": 1,
+          "team": "Palmeiras ",
+          "subject": "Na trave",
+          "description": "Denilson enfia uma bola perigosa na trave do goleiro Tafarel."
+        },
+        {
+          "time": 7,
+          "half": 1,
+          "team": "Palmeiras",
+          "subject": "Tiro de meta ",
+          "description": "É só tiro de meta para o Palmeiras."
+        },
+        {
+          "time": 5,
+          "half": 1,
+          "team": "Cruzeiro",
+          "subject": "Chute a gol",
+          "description": "E saiu o primeiro lance perigoso aqui na arena da baixada.\n"
+        },
+        {
+          "time": 1,
+          "half": 1,
+          "team": "Palmeiras",
+          "subject": "Saída de bola",
+          "description": "Palmeiras sai sai tocando muito nesse começo de jogo.\n"
+        }
+      ],
+      "team-a": {
+        "name": "Palmeiras",
+        "abbr": "PAL",
+        "badge": "logo1.png",
+        "supporters": 9,
+        "score": 5,
+        "players": [
+          {
+            "name": "Alex Muralha",
+            "pos": "GOL"
+          },
+          {
+            "name": "Pará",
+            "pos": "LAD"
+          },
+          {
+            "name": "Réver",
+            "pos": "ZAD"
+          },
+          {
+            "name": "Rafael Vaz",
+            "pos": "ZAE"
+          }
+        ]
+      },
+      "team-b": {
+        "name": "Cruzeiro-MG",
+        "abbr": "CRU",
+        "badge": "logo2.png",
+        "supporters": 7,
+        "score": 4,
+        "players": [
+          {
+            "name": "Alex Muralha",
+            "pos": "GOL"
+          },
+          {
+            "name": "Pará",
+            "pos": "LAD"
+          },
+          {
+            "name": "Réver",
+            "pos": "ZAD"
+          },
+          {
+            "name": "Rafael Vaz",
+            "pos": "ZAE"
+          }
+        ]
+      },
+      "championship": {
+        "name": "Campeonato Brasileiro",
+        "abbr": "Camp. Bras."
+      },
+      "videos": [
+        "gyCFuP3rM2w",
+        "8DyziWtkfBw",
+        "va4PJPvQCnY",
+        "a33Mt28z3fE"
+      ],
+      "porcentagem": {
+        "teamA": "56",
+        "teamB": "44"
+      }
+    }
+  ]
+}
